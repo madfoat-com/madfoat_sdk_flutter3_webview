@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Flutter Plugins" type="FlutterPluginsLibraryType">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/flutter-5/packages/integration_test" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/flutter_js-0.5.0+6" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/modal_progress_hud_nsn-0.3.0" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/webview_flutter-4.2.1" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/webview_flutter_wkwebview-3.4.4" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/webview_flutter_android-3.7.1" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/flutter_webview_plugin-0.4.0" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
